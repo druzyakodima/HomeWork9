@@ -8,6 +8,7 @@ import participants.Robot;
 
 public class Competitions {
     public void competitions() {
+
         Human human = new Human();
         Cat cat = new Cat();
         Robot robot = new Robot();
