@@ -3,7 +3,6 @@ package participants;
 import obstacles.Obstacles;
 
 public class Robot implements Participants {
-
     int forcePoints = 40;
 
     @Override
